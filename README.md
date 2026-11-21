@@ -14,7 +14,7 @@ The OBS recording folder must match the path used by the program.
 
 ## Executable
 
-A prebuilt Windows executable is available at [`output/MCSR-AutoRecord.exe`](output/MCSR-AutoRecord.exe).
+A prebuilt Windows executable is available at [`output/MCSR-AutoRecord.exe`](https://github.com/dinotnt-lab/MCSR-AutoRecord/releases/tag/v1.0.0).
 
 The executable creates a configuration file at:
 
